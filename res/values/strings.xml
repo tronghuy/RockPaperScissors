@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Rock Paper Scissors</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+   	<string name="default2">Hello world</string>
+    <string name="tie">Tie</string>
+    <string name="win">Win</string>
+    <string name="lose">Lose</string>
+    <string name="cpu">Your turn</string>
+    <string name="cpuR">The computer picks…Rock</string>
+    <string name="cpuP">The computer picks…Paper</string>
+    <string name="cpuS">The computer picks…Scissors</string>
+    <string name="rock">Rock</string>
+    <string name="paper">Paper</string>
+    <string name="scissors">Scissors</string>
+    
+
+</resources>
